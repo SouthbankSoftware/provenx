@@ -6,10 +6,10 @@ require (
 	github.com/SouthbankSoftware/provendb-verify v0.0.0-20200708050604-5e179a9af7d3
 	github.com/dgrijalva/jwt-go v3.2.0+incompatible
 	github.com/djherbis/times v1.2.0
-	github.com/ethereum/go-ethereum v1.9.9
+	github.com/ethereum/go-ethereum v1.10.17
 	github.com/fatih/color v1.7.0
-	github.com/golang/protobuf v1.3.2
-	github.com/google/go-cmp v0.4.0
+	github.com/golang/protobuf v1.4.3
+	github.com/google/go-cmp v0.5.4
 	github.com/gookit/config/v2 v2.0.17
 	github.com/karrick/godirwalk v1.15.3
 	github.com/korovkin/limiter v0.0.0-20170610225302-6b837f5fd496
@@ -21,10 +21,9 @@ require (
 	github.com/spf13/cobra v0.0.5
 	github.com/spf13/jwalterweatherman v1.1.0 // indirect
 	github.com/spf13/viper v1.6.2
-	golang.org/x/crypto v0.0.0-20200311171314-f7b00557c8c4
-	golang.org/x/lint v0.0.0-20190930215403-16217165b5de // indirect
-	golang.org/x/net v0.0.0-20200425230154-ff2c4b7c35a0
-	golang.org/x/sync v0.0.0-20190911185100-cd5d95a43a6e
+	golang.org/x/crypto v0.0.0-20210322153248-0c34fe9e7dc2
+	golang.org/x/net v0.0.0-20210805182204-aaa1db679c0d
+	golang.org/x/sync v0.0.0-20210220032951-036812b2e83c
 	google.golang.org/grpc v1.26.0
 	src.techknowlogick.com/xgo v0.0.0-20200514233805-209a5cf70012
 )
